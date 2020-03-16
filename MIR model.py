@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-X.Wang
+Alexius Ndoro
 """
 
 from AlgorithmPackage import *
