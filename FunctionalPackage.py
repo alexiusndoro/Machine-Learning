@@ -34,7 +34,7 @@ def curveAllBenchmarkQ41(curve):
     G3=yield_curve.loc[:,'AAA']  
     G1=pow(S*S*G3,1/3)   
     G2=pow(S*G3*G3,1/3)   
-    #投资级
+   
     I1=yield_curve.loc[:,'AA+']  
     I2=yield_curve.loc[:,'AA']  
     I4=yield_curve.loc[:,'AA-']  
